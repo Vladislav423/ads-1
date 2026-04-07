@@ -1,7 +1,6 @@
 package ads_1.assignment_2;
 
-/*
-
+/**
   A generic interface for list data structures.
  @param <T> the type of elements in this list
 */
